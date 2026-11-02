@@ -37,9 +37,9 @@ Predict and display the class of a single test image with actual and predicted l
 
 ## PROGRAM
 
-### Name:ARAVINDAN SD
+### Name:ASHWIN H
 
-### Register Number: 2122242423001
+### Register Number: 212225230025
 
 ```
 import torch
